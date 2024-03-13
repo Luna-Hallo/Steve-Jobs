@@ -1,0 +1,36 @@
+body {
+    margin:200 ;
+    padding:550px;
+    text-align: center;
+}
+#welcome {
+    position: absolute;
+    background-image:linear-gradient(#addfff 30%, #cb9d06 70%);
+    display: table;
+    width: 50%;
+    height: 80%;
+    border-radius: 10%;
+    top: 20px;
+}
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+#Name {
+    font-size: 50px;
+    
+        font-family: "Protest Revolution", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+}
+h2 {
+    font-size: 50px;
+    font-weight: 300;
+    font-family: monospace;
+}
+#bio {
+    font-family: cursive;
+    padding-top: 250px;
+    margin-top: 100px;
+}
